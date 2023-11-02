@@ -1,8 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
->
-src/Exam1.java,4\0\4022ab00e3667c632144835ee3eb79b1af36eb8e
 G
 src/edu/java/Exam1.java,2\7\276f4c96ef0e2026fe8d13db9e233706f344d3ed
 G
@@ -15,8 +11,6 @@ G
 src/edu/java/Exam5.java,2\5\255213b436caf4eb59d2062ffd60bea8a2909184
 G
 src/edu/java/Exam6.java,9\3\930fcdb8f4cb8f1c9f5020b44c447fd95f846807
->
-src/Exam7.java,2\c\2c9fbd98c4576be99bcd1ecfb5c003f366f09832
 G
 src/edu/java/Exam7.java,a\c\ac066edd56d5878f760c12366d5bbd9ec3c2d36c
 G
@@ -60,3 +54,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/a/4/a432ae13bb00180e7fb24e4930684e9de93ce6bb,3\a\3a72bb0df6ea87fd082dffe056c9d4e2eabe5be7
+H
+src/edu/java/Person.java,4\6\46be762533154dde481ecf088b4b185167ddb37d

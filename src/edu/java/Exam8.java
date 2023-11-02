@@ -5,7 +5,7 @@ public class Exam8 {
 
             for (int j = 1; j <= 5; j++) {
 
-                if (j == 0 || j == 4) {
+                if (j == 1 || j == 5) {
                     System.out.println("*****"
                     );
                 } else {
