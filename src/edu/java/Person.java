@@ -1,11 +1,23 @@
 package edu.java;
 
 public class Person {
+    static int si=1;
+    int nsi;
+    String name;
 
+    int getNsi() {
+        return this.nsi;
+    }
 
-    public static void main(String[] args) {
-        int[] aaa=new int[5];
-        aaa[0] = 10;
-        System.out.println(aaa[1]);
+    void setNsi(int nsi) {
+        this.nsi=nsi;
+    }
+
+    String getName() {
+        return this.name;
+    }
+
+    void setName(String name) {
+        this.name=name;
     }
 }
