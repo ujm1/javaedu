@@ -1,0 +1,19 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Çº¾ 8ûíà ¹1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Çº¾ 8üíà ¹1
+L	java:S106"+Replace this use of System.out by a logger.(À¸¢øúÿÿÿÿ8æÍ ¹1
+L	java:S106"+Replace this use of System.out by a logger.(øÇÇ±ùÿÿÿÿ8æÍ ¹1
+W
+java:S2209"5Change this instance-reference to a static reference.(øÇÇ±ùÿÿÿÿ8ƒîà ¹1
+L	java:S106"+Replace this use of System.out by a logger.(Ï×¹£øÿÿÿÿ8æÍ ¹1
+G	java:S106"+Replace this use of System.out by a logger.(İç±Õ8çÍ ¹1
+G	java:S106"+Replace this use of System.out by a logger.(¸ş˜8çÍ ¹1
+L	java:S106"+Replace this use of System.out by a logger.(•´ó¬ıÿÿÿÿ8çÍ ¹1
+L	java:S106"+Replace this use of System.out by a logger.(‹îØ„ûÿÿÿÿ8çÍ ¹1
+B
+java:S2129" Remove this "String" constructor(‹îØ„ûÿÿÿÿ8›°Ò ¹1
+G	java:S106"+Replace this use of System.out by a logger.(Çº¾ 8çÍ ¹1
+G	java:S106"+Replace this use of System.out by a logger.(Çº¾ 8çÍ ¹1
+L	java:S106"+Replace this use of System.out by a logger.(²ã³‹ÿÿÿÿÿ8çÍ ¹1
