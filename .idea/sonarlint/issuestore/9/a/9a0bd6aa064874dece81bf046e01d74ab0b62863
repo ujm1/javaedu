@@ -1,0 +1,20 @@
+
+ƒ
+java:S1488."aImmediately return this expression instead of assigning it to the temporary variable "resultStr".(õúõ¯úÿÿÿÿ8¶åÏ™º1
+u
+java:S1845#"YRename method "seasonGoal" to prevent any misunderstanding/clash with field "seasonGoal".(ñµá(8ÿˆÏ™º1
+v
+java:S1845("YRename method "seasonGoal" to prevent any misunderstanding/clash with field "seasonGoal".(™è•ß8€‰Ï™º1
+G	java:S106"+Replace this use of System.out by a logger.(ÝôÝë8ƒ‰Ï™º1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(©ìÛþ8ƒ‰Ï™º1
+U
+java:S6213"8Rename this method to not match a restricted identifier.(Ì½èË8ƒ‰Ï™º1
+G	java:S106"+Replace this use of System.out by a logger.(í÷ÈÃ8ƒ‰Ï™º1
+S
+java:S2696 "6Make the enclosing method "static" or remove this set.(µ”úÀ8ƒ‰Ï™º1
+S
+java:S2696&"6Make the enclosing method "static" or remove this set.(ŒÁÖµ8„‰Ï™º1
+]	java:S125$"<This block of commented-out lines of code should be removed.(†þÓúÿÿÿÿ8õ°é™º1
+X
+java:S2696)"6Make the enclosing method "static" or remove this set.(ÂâæÆüÿÿÿÿ8„‰Ï™º1

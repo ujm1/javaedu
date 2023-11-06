@@ -1,0 +1,78 @@
+
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛõÖúÿÿÿÿ8»¹¼º1
+
+java:S4165;"dRemove this useless assignment; "strike" already holds the assigned value along all execution paths.(ú“·€8ğ»¹¼º1
+†
+java:S41652"iRemove this useless assignment; "thirdAnswer" already holds the assigned value along all execution paths.(ŒâßÀ8ï»¹¼º1
+‹
+java:S41658"nRemove this useless assignment; "secondInputParse" already holds the assigned value along all execution paths.(³ÓÎ‘8ğ»¹¼º1
+Š
+java:S41659"mRemove this useless assignment; "thirdInputParse" already holds the assigned value along all execution paths.(ÕÊ”´8ï»¹¼º1
+Š
+java:S41657"mRemove this useless assignment; "firstInputParse" already holds the assigned value along all execution paths.(ó¦ˆÈ8ğ»¹¼º1
+‹
+java:S41655"iRemove this useless assignment; "secondInput" already holds the assigned value along all execution paths.(èò¬Àşÿÿÿÿ8ğ»¹¼º1
+…
+java:S41650"iRemove this useless assignment; "firstAnswer" already holds the assigned value along all execution paths.(ÀîŞ8ï»¹¼º1
+„
+java:S4165<"bRemove this useless assignment; "ball" already holds the assigned value along all execution paths.(‚¯î şÿÿÿÿ8ï»¹¼º1
+Š
+java:S4165A"hRemove this useless assignment; "firstInput" already holds the assigned value along all execution paths.(Ú¢Óıÿÿÿÿ8ğ»¹¼º1
+Š
+java:S41654"hRemove this useless assignment; "firstInput" already holds the assigned value along all execution paths.(Ú¢Óıÿÿÿÿ8ğ»¹¼º1
+€
+java:S4165:"cRemove this useless assignment; "count" already holds the assigned value along all execution paths.(ĞïŒÔ8ğ»¹¼º1
+Š
+java:S41656"hRemove this useless assignment; "thirdInput" already holds the assigned value along all execution paths.(‹ç¡ãùÿÿÿÿ8ğ»¹¼º1
+Š
+java:S4165@"hRemove this useless assignment; "firstInput" already holds the assigned value along all execution paths.(Ú¢Óıÿÿÿÿ8ğ»¹¼º1
+†
+java:S41651"jRemove this useless assignment; "secondAnswer" already holds the assigned value along all execution paths.(ä’‹8ğ»¹¼º1
+r	java:S116"QRename this field "Answer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛõÖúÿÿÿÿ8ğ»¹¼º1
+q	java:S116"PRename this field "Input" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¹Àªøÿÿÿÿ8ğ»¹¼º1
+K
+java:S2140
+")Use "java.util.Random.nextInt()" instead.(®€ä°ÿÿÿÿÿ8ò»¹¼º1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ØÒÒîøÿÿÿÿ8ó»¹¼º1
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ï’£8ó»¹¼º1
+\
+java:S18543":Remove this useless assignment to local variable "Answer".(ÛõÖúÿÿÿÿ8ô»¹¼º1
+\
+java:S11173":Rename "Answer" which hides the field declared at line 20.(ÛõÖúÿÿÿÿ8ô»¹¼º1
+M
+java:S14813"+Remove this unused "Answer" local variable.(ÛõÖúÿÿÿÿ8ô»¹¼º1
+W
+java:S1854>";Remove this useless assignment to local variable "scanner".(©Úáf8ô»¹¼º1
+H
+java:S1481>",Remove this unused "scanner" local variable.(©Úáf8÷»¹¼º1
+“
+java:S2159O"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ù®´éûÿÿÿÿ8ø»¹¼º1
+s
+java:S3457W"Q%n should be used in place of \n to produce the platform-specific line separator.(ËÙÿÿÿÿÿ8ù»¹¼º1
+X	java:S125Y"<This block of commented-out lines of code should be removed.(á°»8ù»¹¼º1
+K
+java:S16560"/Remove or correct this useless self-assignment.(ÀîŞ8ú»¹¼º1
+K
+java:S16561"/Remove or correct this useless self-assignment.(ä’‹8ú»¹¼º1
+L
+java:S16562"/Remove or correct this useless self-assignment.(ŒâßÀ8ù»¹¼º1
+Q
+java:S16564"/Remove or correct this useless self-assignment.(Ú¢Óıÿÿÿÿ8ú»¹¼º1
+Q
+java:S16566"/Remove or correct this useless self-assignment.(‹ç¡ãùÿÿÿÿ8ú»¹¼º1
+L
+java:S16569"/Remove or correct this useless self-assignment.(ÕÊ”´8ú»¹¼º1
+L
+java:S1656;"/Remove or correct this useless self-assignment.(ú“·€8ù»¹¼º1
+Q
+java:S16565"/Remove or correct this useless self-assignment.(èò¬Àşÿÿÿÿ8ù»¹¼º1
+L
+java:S16568"/Remove or correct this useless self-assignment.(³ÓÎ‘8ù»¹¼º1
+L
+java:S1656:"/Remove or correct this useless self-assignment.(ĞïŒÔ8ù»¹¼º1
+L
+java:S16567"/Remove or correct this useless self-assignment.(ó¦ˆÈ8ù»¹¼º1
+Q
+java:S1656<"/Remove or correct this useless self-assignment.(‚¯î şÿÿÿÿ8ù»¹¼º1
